@@ -3,7 +3,7 @@
 Code for our EMNLP 2023 paper.
 
 ## Model Overview
-The figure below illustrates our simple-to-complex progressive framework for document-level IAE. First, it calculates the prediction difficulty for each event in document $D$ at the first inference (blue route). Second, it orders these events from simple to complex and predict them accordingly (green route). Here, we plot the prediction process of $E_1$.
+The figure below illustrates our simple-to-complex progressive framework for document-level informative argument extraction. First, we calculate the difficulty of each event in a document $D$ and obtain a new prediction order for that event. Second, we reorder events in $D$ from simple to complex, and predict them accordingly. S2C denotes Simple-to-Complex, while F2B denotes Front-to-Back. Here, we plot the process of predicting the arguments of $E_2$.
 
 ![Model](figs/model.png)
 
