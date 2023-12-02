@@ -46,11 +46,11 @@ If you find our work useful, please cite as follows:
 
 ```
 @inproceedings{
-	huang2023from,
-	title={From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction},
-	author={Quzhe Huang and Yanxi Zhang and Dongyan Zhao},
-	booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
-	year={2023},
-	url={https://openreview.net/forum?id=dp9jTeKXec}
+huang2023from,
+title={From Simple to Complex: A Progressive Framework for Document-level Informative Argument Extraction},
+author={Quzhe Huang and Yanxi Zhang and Dongyan Zhao},
+booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+year={2023},
+url={https://openreview.net/forum?id=dp9jTeKXec}
 }
 ```
